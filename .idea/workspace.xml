@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d95bf6cf-66f1-450e-8935-099962e60f8f" name="Changes" comment="" />
+    <list default="true" id="d95bf6cf-66f1-450e-8935-099962e60f8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Authentication_App_Google_Github_Keycloak.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/java/dev/elma/thymleaf_app_secured/ThymeleafAppSecuredApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/java/dev/elma/thymleaf_app_secured/entities/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/java/dev/elma/thymleaf_app_secured/repositories/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/java/dev/elma/thymleaf_app_secured/web/ControllerThymeleaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/templates/customers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/test/java/dev/elma/thymleaf_app_secured/ThymleafAppSecuredApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Thymleaf_App_secured" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2Z5wimCYV1jxT7VmmB3x7wBzPZn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,13 +63,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ThymeleafAppSecuredApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Thymleaf_App_secured" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.elma.thymleaf_app_secured.ThymeleafAppSecuredApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701725381553</updated>
-      <workItem from="1701725383334" duration="1000" />
+      <workItem from="1701725383334" duration="3183000" />
     </task>
     <servers />
   </component>
