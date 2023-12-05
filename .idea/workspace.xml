@@ -5,11 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d95bf6cf-66f1-450e-8935-099962e60f8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Products_MS_Secured/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products_MS_Secured/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products_MS_Secured/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products_MS_Secured/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products_MS_Secured/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products_MS_Secured/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products_MS_Secured/src/main/java/dev/elma/products_ms_secured/ProductsMsSecuredApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products_MS_Secured/src/main/java/dev/elma/products_ms_secured/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products_MS_Secured/src/main/java/dev/elma/products_ms_secured/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products_MS_Secured/src/main/java/dev/elma/products_ms_secured/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products_MS_Secured/src/main/java/dev/elma/products_ms_secured/web/ProductRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products_MS_Secured/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products_MS_Secured/src/test/java/dev/elma/products_ms_secured/ProductsMsSecuredApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/java/dev/elma/thymleaf_app_secured/security/SecurityConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/templates/authorization.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/templates/loginPage.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/templates/products.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/templates/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thymleaf_App_secured" beforeDir="false" afterPath="$PROJECT_DIR$/Thymleaf_App_secured" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thymleaf_App_secured/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thymleaf_App_secured/pom.xml" afterDir="false" />
@@ -26,13 +45,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Thymleaf_App_secured" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Products_MS_Secured" />
   </component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
@@ -74,9 +93,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JavaScript Debug.customers.html">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProductsMsSecuredApplication">
     <configuration name="customers.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Authentication_App_Google_Github_Keycloak/Thymleaf_App_secured/src/main/resources/templates/customers.html" useBuiltInWebServerPort="true">
       <method v="2" />
+    </configuration>
+    <configuration name="ProductsMsSecuredApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Products_MS_Secured" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.elma.products_ms_secured.ProductsMsSecuredApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ThymeleafAppSecuredApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Thymleaf_App_secured" />
@@ -99,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701725381553</updated>
-      <workItem from="1701725383334" duration="18038000" />
+      <workItem from="1701725383334" duration="24250000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />

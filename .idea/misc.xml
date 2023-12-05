@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Thymleaf_App_secured/pom.xml" />
+        <option value="$PROJECT_DIR$/Products_MS_Secured/pom.xml" />
       </list>
     </option>
   </component>
