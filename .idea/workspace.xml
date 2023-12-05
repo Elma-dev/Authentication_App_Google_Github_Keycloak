@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d95bf6cf-66f1-450e-8935-099962e60f8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/java/dev/elma/thymleaf_app_secured/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/templates/products.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/templates/template.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thymleaf_App_secured/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thymleaf_App_secured/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/java/dev/elma/thymleaf_app_secured/web/ControllerThymeleaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/java/dev/elma/thymleaf_app_secured/web/ControllerThymeleaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/templates/customers.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/resources/templates/customers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701725381553</updated>
-      <workItem from="1701725383334" duration="6267000" />
+      <workItem from="1701725383334" duration="12407000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
