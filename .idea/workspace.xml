@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d95bf6cf-66f1-450e-8935-099962e60f8f" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Products_MS_Secured/src/main/java/dev/elma/products_ms_secured/security/JwtAuthConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/java/dev/elma/thymleaf_app_secured/models/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products_MS_Secured" beforeDir="false" afterPath="$PROJECT_DIR$/Products_MS_Secured" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Products_MS_Secured/src/main/java/dev/elma/products_ms_secured/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Products_MS_Secured/src/main/java/dev/elma/products_ms_secured/security/SecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Products_MS_Secured/src/main/java/dev/elma/products_ms_secured/web/ProductRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Products_MS_Secured/src/main/java/dev/elma/products_ms_secured/web/ProductRestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/java/dev/elma/thymleaf_app_secured/web/ControllerThymeleaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thymleaf_App_secured/src/main/java/dev/elma/thymleaf_app_secured/web/ControllerThymeleaf.java" afterDir="false" />
@@ -23,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -69,10 +71,14 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;e3032fc46669b12dd1611905cac258c7&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/eier/Desktop/javaProj/Authentication_App_Google_Github_Keycloak/angular_app_front/front_app/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/angular_app_front/front_app/src/app/services" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="dev.elma.thymleaf_app_secured.models" />
     </key>
@@ -118,7 +124,11 @@
       <updated>1701725381553</updated>
       <workItem from="1701725383334" duration="24250000" />
       <workItem from="1701861579492" duration="900000" />
-      <workItem from="1702141730992" duration="2047000" />
+      <workItem from="1702141730992" duration="5120000" />
+      <workItem from="1702217218295" duration="1968000" />
+      <workItem from="1702466951284" duration="4979000" />
+      <workItem from="1702472639799" duration="7295000" />
+      <workItem from="1702821805435" duration="3378000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
